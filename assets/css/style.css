@@ -1,0 +1,18 @@
+body{
+  font-family: Arial;
+  background-color: rgba(100, 100, 100, 0.2);
+}
+
+.form-horizontal {
+  width: 700px;
+  text-align: center;
+  margin: 0px auto;
+}
+.container-fluid{
+  background-color: darkgrey;
+  width: 800px;
+  margin: 100px auto;
+}
+#result-search{
+  background-color: darkgrey;
+}
